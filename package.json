@@ -13,7 +13,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
-    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
     "@sentry/browser": "^8.53.0",
     "clsx": "^1.2.1",
     "code-tag": "^1.1.0",
